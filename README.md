@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+
+"Welcome, my name is Setia Budy, I am a android developer who loves to write software to build great product and help businesses succed with their goals. I appreciate good design and i am seeing it's importance more then ever in today apps, webs sites, and products."
 
 <!--
 **SetiaBudy-Me/SetiaBudy-Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
